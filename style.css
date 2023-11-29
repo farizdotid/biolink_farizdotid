@@ -132,6 +132,13 @@ ul.links li:not(:last-child) {
   opacity: 0.4;
 }
 
+hr.dotted {
+  border: none;
+  border-top: 4px dotted white; /* Set the color and style of the dotted line */
+  height: 1px; /* Set the height of the dotted line */
+  margin: 20px 0; /* Set the top and bottom margins */
+}
+
 @keyframes muncul {
   from {
     opacity: 0;
