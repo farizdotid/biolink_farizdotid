@@ -15,7 +15,7 @@ Here is a working live demo : https://biolink-farizdotid.vercel.app/
 
 ## Screenshots
 
-![App Screenshot]([https://api.pikwy.com/web/659d07f2863ed7204c09d6a2.jpg])
+![App Screenshot](https://api.pikwy.com/web/659d07f2863ed7204c09d6a2.jpg)
 
 
 ## Installation
